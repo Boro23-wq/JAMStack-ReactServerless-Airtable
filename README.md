@@ -7,9 +7,9 @@
 
 Make sure to create a .env file and include the following credentials from Airtable.
 
-AIRTABLE_API_KEY = "YOUR AIRTABLE API KEY"
-AIRTABLE_BASE_ID = "YOUR AIRTABLE BASE ID"
-AIRTABLE_TABLE_NAME = "TABLE NAME"
+**AIRTABLE_API_KEY** = "YOUR AIRTABLE API KEY" <br/>
+**AIRTABLE_BASE_ID** = "YOUR AIRTABLE BASE ID" <br/>
+**AIRTABLE_TABLE_NAME** = "TABLE NAME" <br/>
 
 ## Before starting the application?
 
